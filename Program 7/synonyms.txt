@@ -1,0 +1,10 @@
+stop		halt, cease activity, quit, discontinue
+explain		clarify, describe, interpret, illuminate
+check		hold back, test, ascertain, assure
+plan		design, strategy, scheme, be after
+create		make, develop, build, devise
+store		stock, shop, depot, put in
+apply		use, employ, put on, implement
+price		cost, terms, toll, value
+number		count, keep down, total, figure
+jog			trot, lope, clip, even up
